@@ -300,7 +300,7 @@ Potential improvements include:
 
 ## Author
 
-**SRI VIGNESH**
+**SRI**
 
 GitHub Profile: https://github.com/SRI-VIGNESH-WORKS
 
